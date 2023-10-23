@@ -1,6 +1,6 @@
 # **Welcome to My GitHub Profile!**
 
-Hello there! 👋 Welcome to my GitHub profile. I'm sharmaofficial123, a passionate React-Native based in NewDelhi,India. This space is where I explore, learn, and collaborate on various projects that reflect my interests and expertise.
+Hello there! 👋 Welcome to my GitHub profile. I'm Kanishk Sharma, a passionate React-Native based in NewDelhi,India. This space is where I explore, learn, and collaborate on various projects that reflect my interests and expertise.
 
 ## About Me
 
